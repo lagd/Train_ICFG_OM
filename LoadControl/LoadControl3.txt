@@ -1,1 +1,3 @@
 Archivo 3 load control, después del primer comit de load control
+
+Cambios hechos después del mrge de LoadControl con el master remoto
