@@ -1,3 +1,5 @@
 La primera prueba BBBB
 
 un cambio en archivo B
+
+tuve que tocar archivo B en paralelo a CVL, estando en load control
