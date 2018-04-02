@@ -1,0 +1,9 @@
+La primera prueba
+
+un cambio en archivo A
+
+<<<<<<< HEAD
+cambio en archvio A en rama de LoadControl
+=======
+-- EN CVL tuve que hacer cambio en archivo A
+>>>>>>> CVL_Cambio2
